@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-s) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-s-) 
 </div>
 
 <div align="center">
